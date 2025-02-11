@@ -26,7 +26,7 @@ This application provides a user-friendly interface for converting currency amou
 1. **Clone or Download the Repository**:
    - If you cloned the repository:
      ```bash
-     git clone https://github.com/your-github-nickname/currency-converter.git
+     git clone https://github.com/ColdBoy66/currency-converter.git
      cd currency-converter
      ```
    - Alternatively, download the ZIP file and extract it.
